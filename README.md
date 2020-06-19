@@ -1,5 +1,5 @@
 # tweepy
-anlysis #covid using tweepy
+analyse #covid using tweepy
 
 Tweepy is a Python library for accessing the Twitter API.
  The script would generate anlayse about #covid
